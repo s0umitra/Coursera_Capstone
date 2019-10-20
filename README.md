@@ -1,2 +1,2 @@
 # Coursera_Capstone
-my first repo
+Project based on machine learning with python
