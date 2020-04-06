@@ -1,2 +1,4 @@
 # Coursera_Capstone
-Project based on machine learning with python
+Project based on machine learning
+
+Machine Learning with Python ( Provided by Coursera - IBM authorized)
