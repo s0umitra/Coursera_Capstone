@@ -1,19 +1,21 @@
-# Coursera_Capstone
+# The Battle of Neighborhoods
 
-Machine Learning with Python ( Provided by Coursera - IBM authorized)
+A Project for Professional Course 'IBM Data Science'.
 
-Done for a Specialization Course 'IBM Data Science':-
- 
-  Course Certificates Completed:- <br>
-    1. What is Data Science? <br>
-    2. Open Source tools for Data Science <br>
-    3. Data Science Methodology <br>
-    4. Python for Data Science and AI <br>
-    5. Databases and SQL for Data Science <br>
-    6. Data Analysis with Python <br>
-    7. Data Visualization with Python <br>
-    8. Machine Learning with Python <br>
-    9. Applied Data Science Capstone <br>
+(Provided by Coursera - IBM authorized)
+
+Link to view [certificate](https://drive.google.com/file/d/1D2otQxBVp7muDWxcRZf7UuYsBsf-nw9e/view?usp=sharing)
+
+All individual courses completed:-
+- What is Data Science?
+- Open Source tools for Data Science
+- Data Science Methodology
+- Python for Data Science and AI
+- Databases and SQL for Data Science
+- Data Analysis with Python
+- Data Visualization with Python
+- Machine Learning with Python
+- Applied Data Science Capstone
 
 ### Introduction
 
